@@ -1,5 +1,5 @@
 import React from "react";
-import { Avatar, Card, Text, Spacer, Grid, CardBody } from "@nextui-org/react";
+import { Avatar, Card, Spacer, CardBody } from "@nextui-org/react";
 
 const gigApplicationsData = [
   {
