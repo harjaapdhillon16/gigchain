@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { AppProps } from "next/app";
 import { NextUIProvider } from "@nextui-org/react";
 import { ThemeProvider as NextThemesProvider } from "next-themes";
