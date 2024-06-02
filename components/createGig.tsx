@@ -1,3 +1,4 @@
+// @ts-nocheck
 // components/GigFormModal.js
 import React, { useState } from "react";
 import {

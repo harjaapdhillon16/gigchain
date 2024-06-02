@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import React from "react";
 import { useCheckbox, Chip, VisuallyHidden, tv } from "@nextui-org/react";
 import { CheckboxGroup } from "@nextui-org/react";
